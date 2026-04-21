@@ -21,7 +21,7 @@ Step 6: Dashboard Development Design and build an interactive dashboard in Table
 - Highlights key financial metrics including funded amounts, profits, and losses.
 
 # Project Summary Dashboard
-![SUMMARY](https://github.com/Rakesh3596/RBI-Bank-Loan-Analysis-Project/assets/101379879/2c602b80-a63b-492d-8893-be071f499ffc)
+![SUMMARY](https://github.com/Pallavi-1993-cts/Bank-Loan-Analysis/blob/main/306947167-2c602b80-a63b-492d-8893-be071f499ffc.png)
 # Project Overview Dashboard
 ![Overview](https://github.com/Rakesh3596/RBI-Bank-Loan-Analysis-Project/assets/101379879/81fbddb8-cc95-449c-8335-e72114f01425)
 # Project Details Dashboard
