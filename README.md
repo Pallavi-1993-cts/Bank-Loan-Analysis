@@ -25,7 +25,7 @@ Step 6: Dashboard Development Design and build an interactive dashboard in Table
 # Project Overview Dashboard
 ![Overview](https://github.com/Pallavi-1993-cts/Bank-Loan-Analysis/blob/main/306947379-81fbddb8-cc95-449c-8335-e72114f01425.png)
 # Project Details Dashboard
-![Details](https://github.com/Rakesh3596/RBI-Bank-Loan-Analysis-Project/assets/101379879/223218f3-5011-416c-be1f-1b62e12a4f86)
+![Details](https://github.com/Pallavi-1993-cts/Bank-Loan-Analysis/blob/main/306947602-223218f3-5011-416c-be1f-1b62e12a4f86.png)
 # MS SQL Server Query Report
 <img width="559" alt="sql query " src="https://github.com/Rakesh3596/RBI-Bank-Loan-Analysis-Project/assets/101379879/f584636f-52c0-4a35-adb4-9adb70dafb70">
 
